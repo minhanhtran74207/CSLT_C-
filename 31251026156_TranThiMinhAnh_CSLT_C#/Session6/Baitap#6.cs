@@ -1,6 +1,6 @@
 using System;
 
-class Program
+class BaiTap6
 {
     static void Main()
     {
